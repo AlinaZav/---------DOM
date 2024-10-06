@@ -1,6 +1,7 @@
 @charset "UTF-8";
 body {
   background: url(/фон.jpg);
+  color: #fff;
 }
 
 *,
@@ -21,7 +22,7 @@ body {
 }
 
 .autoCard {
-  background: #fff;
+  background: #51a0f4;
   padding: 20px;
 }
 
